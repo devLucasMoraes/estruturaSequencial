@@ -1,8 +1,6 @@
 ## Estrutura Sequencial
 Lucas Samuel de Jesus Souza Moraes RA: 12722211601
 
-## Exercicio 03
-Faça um Programa que peça dois números e imprima a soma
 
 ## Folder Structure
 
